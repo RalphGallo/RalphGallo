@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Développeur Web</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <img src="image.jpg" alt="Photo de profil" class="photo" />
+      <div class="section">
+        <h2>Contact</h2>
+        <ul>
+          <li>Tél : +237 698411274</li>
+          <li>Email : kushanjid@gmail.com</li>
+          <li>Douala , Cameroun </li>
+          <li>Github: github.com/RalpGallo</li>
+         <!-- //<li>LinkedIn : /prenom.nom/</li> -->
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Logiciels</h2>
+        <ul>
+          <li>Python</li>
+          <li>SAP</li>
+          <li>Scilab</li>
+          <li>Notepad</li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Langues</h2>
+        <p>Français : Natif</p>
+        <p>Anglais : intermédiaire </p>
+        <p>Espagnol : Débutant</p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header>
+        <h1>DUPLEXE  KUSHANJI </h1>
+        <h2>Développeur web</h2>
+      </header>
+
+      <section>
+        <h3>À propos</h3>
+        <p>Développeur web expérimenté, je suis dynamique et j’aime travailler en équipe pour relever des challenges techniques...</p>
+      </section>
+
+      <section>
+        <h3>Expériences</h3>
+        <div class="experience">
+          <strong>DÉVELOPPEUR WEB</strong> – Université de Douala <span>Feb. 2018 - Sept. 2022</span>
+          <ul>
+            <li>Participation au développement de nouvelles applications web</li>
+            <li>Développement d'interfaces à partir d’une base données</li>
+            <li>Améliorations ergonomiques des applications</li>
+          </ul>
+
+
+   
+        <article>
+            <strong>Développeurs front-end</strong> - Web créative studio <span>Fév  2015 - sept  2017</span>
+
+            <ul>
+                <li>Réalisation d’interfaces utilisateur interactives avec HTML5, CSS3 et React.js. </li>
+                <li>Implémentation responsive design (mobile-first) pour divers projets clients.</li>
+                <li>Optimisation des performances et du référencement (SEO technique). </li>
+                  </div>
+        <!-- Répète les blocs d'expérience ici -->
+      </section>
+
+      <section>
+        <h3>Formation</h3>
+        <p><strong>CEP</strong> – Université ou école<br/>Sept. 2006 - Juin 2007</p>
+        <p><strong>BEPC</strong> – Université ou école<br/>Sept. 2012 - Juin 2013</p>
+        <p><strong>BAC</strong> – Université ou école<br/>Sept. 2015 - Juin 2016</p> 
+       <p><strong>formatoon JavaScript </strong> – École de technologie <br/>Sept. 2008 - Juin 2009</p>
+        <p><strong>FORMATION EN JS</strong> – UIS<br/>Sept. 2009 - mars 2010</p>
+        <p><strong>React.js</strong> – Openclassroom <br/>Sept. 2011 -Dec 2011</p>
+      </section>
+
+      <section class="grid">
+        <div>
+          <h3>Qualités</h3>
+          <ul>
+            <li>Rigoureux</li>
+            <li>Motivé</li>
+            <li>Esprit d’équipe</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Centres d’intérêt</h3>
+          <ul>
+            <li>Cinéma </li>
+            <li>Sports de combat</li>
+            <li>Lecture</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
